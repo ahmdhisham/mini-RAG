@@ -6,14 +6,14 @@ First RAG project for learning purposes. This is a minimal impelementation of a 
 
 #### Install Python
 1) Download python 3.10 from the official website of python
-2) Install it and add it to the *System PATH*
-3) Open the terminal from your project dirctory *or* head to your IDE terminal and change the working directory to your project directory 
+2) Install it and add it to the **System PATH**
+3) Open the terminal from your project dirctory ***or*** head to your IDE terminal and change the working directory to your project directory 
 (e.g. ```ahmed@ahmed-virtual-machine:~/Desktop/Projects/Mini-RAG```)
-3) Create a new virtual environment using the following command 
+4) Create a new virtual environment using the following command 
 ```bash
 python3 -m venv .venv
 ```
-4) Activate the environment using the following command
+5) Activate the environment using the following command
 ```bash 
 source .venv/bin/activate
 ```
