@@ -1,2 +1,2 @@
 # Mini-RAG
-First RAG Project for Learning Purposes. 
+First RAG project for learning purposes. 
