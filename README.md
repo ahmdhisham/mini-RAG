@@ -1,4 +1,4 @@
-# Mini-RAG
+# mini-RAG
 First RAG project for learning purposes. This is a minimal impelementation of a RAG model for question answering.
 
 ## Requirements
@@ -8,7 +8,7 @@ First RAG project for learning purposes. This is a minimal impelementation of a 
 1) Download python 3.10 from the official website of python
 2) Install it and add it to the **System PATH**
 3) Open the terminal from your project dirctory ***or*** head to your IDE terminal and change the working directory to your project directory 
-(e.g. ```ahmed@ahmed-virtual-machine:~/Desktop/Projects/Mini-RAG```)
+(e.g. ```ahmed@ahmed-virtual-machine:~/Desktop/Projects/mini-RAG```)
 4) Create a new virtual environment using the following command 
 ```bash
 python3 -m venv .venv
