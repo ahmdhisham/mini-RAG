@@ -43,6 +43,8 @@ $ cp .env.example .env
 $ uvicorn main:app --reload --host 0.0.0.0 --port 7000
 ```
 
-## Add main.py
+## Edit main.py file
 
 **Adjust the path_env at the first line in the main.py file to match this --> path_env = ".env"**
+
+**at the sixth line adjust the import statement to match this: from routes import base**
