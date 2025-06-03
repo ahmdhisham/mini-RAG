@@ -1,4 +1,4 @@
-# mini-RAG
+# mini_RAG
 First RAG project for learning purposes. This is a minimal impelementation of a RAG model for question answering.
 
 ## Requirements
