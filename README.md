@@ -5,7 +5,7 @@ First RAG project for learning purposes. This is a minimal impelementation of a 
 - Python 3.10
 
 #### Install Python
-**Remove each "$" from the commands or copy them without it; it's only a declaration for using the command-line interface**
+**Remove each "$" from the commands or copy the commands without it; it's only a declaration for using the terminal**
 1) Download python 3.10 from the official website of python
 2) Install it and add it to the **System PATH**
 3) Open the terminal from your project dirctory ***or*** head to your IDE terminal and change the working directory to your project directory 
@@ -42,9 +42,3 @@ $ cp .env.example .env
 ```bash
 $ uvicorn main:app --reload --host 0.0.0.0 --port 7000
 ```
-
-## Edit main.py file
-
-**Adjust the path_env at the first line in the main.py file to match this: `path_env = ".env"`**
-
-**at the sixth line adjust the import statement to match this: `from routes import base`**
