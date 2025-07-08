@@ -5,7 +5,7 @@ First RAG project for learning purposes. This is a minimal impelementation of a 
 - Python 3.10
 
 #### Install Python
-**Remove each "$" from the commands or copy the commands without it; it's only a declaration for using the terminal**
+**Remove "$" from each command below or copy them without it; it's only a declaration for using the terminal**
 1) Download python 3.10 from the official website of python
 2) Install it and add it to the **System PATH**
 3) Open the terminal from your project dirctory ***or*** head to your IDE terminal and change the working directory to your project directory 
