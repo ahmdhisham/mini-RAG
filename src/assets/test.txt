@@ -1,0 +1,2 @@
+Hello, World!
+This is a testing script for the files validation feature.

@@ -1,0 +1,48 @@
+{
+	"info": {
+		"_postman_id": "7e359262-deb3-4afd-8f65-7784aa5478d3",
+		"name": "mini_RAG",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45287224",
+		"_collection_link": "https://ahmedhisham-9127558.postman.co/workspace/Ahmed-Hisham's-Workspace~de86b8d5-b409-4ea2-8b60-2d2b57e3a62a/collection/45287224-7e359262-deb3-4afd-8f65-7784aa5478d3?action=share&source=collection_link&creator=45287224"
+	},
+	"item": [
+		{
+			"name": "welcome-request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "api",
+			"value": "http://0.0.0.0:5000",
+			"type": "string"
+		}
+	]
+}
